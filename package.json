@@ -1,0 +1,9 @@
+{
+  "name": "stitchmarker",
+  "version": "1.0.0",
+  "description": "knitwear styling",
+  "main": "index.js",
+  "repository": "https://github.com/deejaygraham/stitchmarker.git",
+  "author": "Derek Graham <deejaygraham@gmail.com>",
+  "license": "MIT"
+}
