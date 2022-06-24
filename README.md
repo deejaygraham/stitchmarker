@@ -1,2 +1,2 @@
 # stitchmarker
-Knitwear styling app
+Knitwear styling app using React and yarn (of course:)
